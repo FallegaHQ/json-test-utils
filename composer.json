@@ -2,7 +2,6 @@
   "name": "fallegahq/json-test-utils",
   "description": "JSON testing utilities for PHPUnit 11+",
   "type": "library",
-  "version": "0.0.1alpha1",
   "require": {
     "php": "^8.2",
     "phpunit/phpunit": "^11"
